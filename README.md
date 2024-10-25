@@ -1,4 +1,4 @@
-# TDSP Project Template
+# Analytics Team Project Template
 
 ## Project Description
 This project provides a structured template for data science and machine learning projects, ensuring best practices for organizing code, data, and documentation. It includes modular components for data loading, preprocessing, model training, and evaluation, and is built to streamline collaboration and reproducibility.
